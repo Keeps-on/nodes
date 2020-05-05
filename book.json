@@ -9,7 +9,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "首页": ""
+            "首页": "https://github.com/Keeps-on"
         }
     },
 
@@ -27,7 +27,9 @@
         "tbfed-pagefooter",
         "popup",
         "-sharing",
-        "sharing-plus"
+        "sharing-plus",
+        "atoc",
+        "todo"
     ],
     "pluginsConfig": {
         "insert-logo": {
@@ -63,6 +65,10 @@
                 "viber",
                 "whatsapp"
             ]
+        },
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
         }
     }
 }
